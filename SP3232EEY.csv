@@ -1,0 +1,7 @@
+"Reference","Value","Footprint","Datasheet","Qty","DNP","Exclude from BOM","Exclude from Board"
+"C1,C2,C3,C4,C5","100nF","PCM_Capacitor_SMD_AKL:C_1206_3216Metric","~","5","","",""
+"J2","JST_04","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal","","1","","",""
+"J3","Conn_01x06","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","~","1","","",""
+"R1,R2,R3,R4","10K","PCM_Resistor_SMD_AKL:R_1206_3216Metric","~","4","","",""
+"R5,R6,R7,R8","100R","PCM_Resistor_SMD_AKL:R_1206_3216Metric","~","4","","",""
+"U1","SP3232EEY","Package_SO:SSOP-16_5.3x6.2mm_P0.65mm","https://www.jlc-smt.com/lcsc/detail?componentCode=C13482","1","","",""
